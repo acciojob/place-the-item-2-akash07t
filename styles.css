@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.row{
-	width:50%;
-	height:200px;
+.holder{
+/* 	width:50%;
+	height:200px; */
 	display:flex;
 	justify-content: center;
-	flex:wrap;
+	flex-wrap:wrap;
 	
 }
 .box1{
